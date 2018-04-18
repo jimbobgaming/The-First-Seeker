@@ -39,6 +39,7 @@
     <object>objects\obj_player</object>
     <object>objects\obj_powerup</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_door</object>
     <objects name="Dungeon01">
       <object>objects\obj_block_dungeon_CornerConnector_Right</object>
       <object>objects\obj_block_dungeon_CornerConnector_left</object>
@@ -52,7 +53,6 @@
       <object>objects\obj_dungeon_block_BG_Light</object>
       <object>objects\obj_block_dungeon_slope_up</object>
     </objects>
-    <object>objects\obj_door</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
